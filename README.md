@@ -18,4 +18,5 @@ Headings are automatically added in order at the end of the list.
 ## Technologies
 - Java
 - Object-Oriented Programming (OOP)
+
 - Basic data structures
